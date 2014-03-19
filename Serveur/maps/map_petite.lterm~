@@ -1,0 +1,23 @@
+[
+  ((4,5),
+    [
+    lterm{uid=1, dest=(7,4), place=8}
+    ]
+  ),
+  ((6,5),
+    [
+    lterm{uid=305, dest=(3,4), place=28}
+    ]
+  ),
+  ((4,7),
+    [
+    lterm{uid=306, dest=(7,10), place=28}
+    ]
+  ),
+  ((6,7),
+    [
+    lterm{uid=566, dest=(1,10), place=15}
+    ]
+  )
+]
+Total des lambda termes: 24902

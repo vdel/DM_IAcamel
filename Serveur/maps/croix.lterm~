@@ -1,0 +1,9 @@
+[
+ ((8,11),
+   [
+   lterm {uid=1, dest=(5,12), place=50},
+   lterm {uid=2, dest=(5,12), place=1},
+   lterm {uid=3, dest=(5,12), place=3}
+   ]
+ )
+]

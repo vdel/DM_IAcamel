@@ -1,0 +1,150 @@
+[
+  ((7,6),
+    [
+    lterm{uid=1, dest=(8,2), place=29},
+    lterm{uid=2, dest=(6,6), place=47},
+    lterm{uid=3, dest=(7,4), place=39},
+    lterm{uid=4, dest=(3,2), place=18},
+    lterm{uid=5, dest=(4,8), place=50},
+    lterm{uid=6, dest=(7,5), place=1},
+    lterm{uid=7, dest=(4,2), place=34},
+    lterm{uid=8, dest=(9,10), place=22},
+    lterm{uid=9, dest=(7,8), place=33},
+    lterm{uid=10, dest=(10,5), place=31},
+    lterm{uid=11, dest=(5,10), place=48}
+    ]
+  ),
+  ((8,4),
+    [
+    lterm{uid=12, dest=(5,2), place=20},
+    lterm{uid=13, dest=(2,8), place=46},
+    lterm{uid=14, dest=(4,7), place=29},
+    lterm{uid=15, dest=(5,9), place=44},
+    lterm{uid=16, dest=(6,8), place=21},
+    lterm{uid=17, dest=(2,8), place=16},
+    lterm{uid=18, dest=(3,5), place=43},
+    lterm{uid=19, dest=(3,4), place=4},
+    lterm{uid=20, dest=(10,9), place=3},
+    lterm{uid=21, dest=(4,3), place=42},
+    lterm{uid=22, dest=(9,5), place=30},
+    lterm{uid=23, dest=(6,10), place=3}
+    ]
+  ),
+  ((5,9),
+    [
+    lterm{uid=24, dest=(4,4), place=1},
+    lterm{uid=25, dest=(8,3), place=6},
+    lterm{uid=26, dest=(2,9), place=3},
+    lterm{uid=27, dest=(6,8), place=11},
+    lterm{uid=28, dest=(10,4), place=43},
+    lterm{uid=29, dest=(9,3), place=21},
+    lterm{uid=30, dest=(1,4), place=7},
+    lterm{uid=31, dest=(5,10), place=42}
+    ]
+  ),
+  ((2,7),
+    [
+    lterm{uid=32, dest=(3,7), place=44},
+    lterm{uid=33, dest=(7,3), place=9},
+    lterm{uid=34, dest=(2,8), place=24},
+    lterm{uid=35, dest=(2,10), place=23},
+    lterm{uid=36, dest=(3,10), place=42},
+    lterm{uid=37, dest=(4,3), place=46},
+    lterm{uid=38, dest=(3,7), place=49},
+    lterm{uid=39, dest=(8,10), place=44},
+    lterm{uid=40, dest=(6,10), place=29}
+    ]
+  ),
+  ((7,5),
+    [
+    lterm{uid=41, dest=(8,10), place=12},
+    lterm{uid=42, dest=(8,10), place=7},
+    lterm{uid=43, dest=(2,8), place=43},
+    lterm{uid=44, dest=(3,2), place=6},
+    lterm{uid=45, dest=(1,9), place=7},
+    lterm{uid=46, dest=(5,2), place=34},
+    lterm{uid=47, dest=(2,7), place=17},
+    lterm{uid=48, dest=(6,6), place=12},
+    lterm{uid=49, dest=(3,6), place=33},
+    lterm{uid=50, dest=(3,5), place=23},
+    lterm{uid=51, dest=(4,4), place=50}
+    ]
+  ),
+  ((10,6),
+    [
+    lterm{uid=52, dest=(7,6), place=24},
+    lterm{uid=53, dest=(4,3), place=3}
+    ]
+  ),
+  ((7,10),
+    [
+    lterm{uid=54, dest=(2,10), place=46},
+    lterm{uid=55, dest=(10,9), place=36},
+    lterm{uid=56, dest=(7,5), place=36},
+    lterm{uid=57, dest=(8,4), place=26},
+    lterm{uid=58, dest=(7,5), place=5},
+    lterm{uid=59, dest=(5,10), place=29},
+    lterm{uid=60, dest=(3,6), place=15},
+    lterm{uid=61, dest=(3,4), place=19},
+    lterm{uid=62, dest=(4,8), place=1},
+    lterm{uid=63, dest=(2,7), place=35}
+    ]
+  ),
+  ((4,10),
+    [
+    lterm{uid=64, dest=(2,8), place=14},
+    lterm{uid=65, dest=(8,9), place=29},
+    lterm{uid=66, dest=(8,2), place=11},
+    lterm{uid=67, dest=(7,4), place=2},
+    lterm{uid=68, dest=(4,7), place=48},
+    lterm{uid=69, dest=(9,10), place=25},
+    lterm{uid=70, dest=(6,3), place=3},
+    lterm{uid=71, dest=(2,4), place=13}
+    ]
+  ),
+  ((3,4),
+    [
+    lterm{uid=72, dest=(7,9), place=45},
+    lterm{uid=73, dest=(1,1), place=41},
+    lterm{uid=74, dest=(10,1), place=38},
+    lterm{uid=75, dest=(2,1), place=32},
+    lterm{uid=76, dest=(8,10), place=23},
+    lterm{uid=77, dest=(8,2), place=36},
+    lterm{uid=78, dest=(6,8), place=47},
+    lterm{uid=79, dest=(1,7), place=15},
+    lterm{uid=80, dest=(3,6), place=1},
+    lterm{uid=81, dest=(10,8), place=34},
+    lterm{uid=82, dest=(7,9), place=17},
+    lterm{uid=83, dest=(3,10), place=11}
+    ]
+  ),
+  ((5,1),
+    [
+    lterm{uid=84, dest=(1,1), place=27},
+    lterm{uid=85, dest=(9,2), place=29},
+    lterm{uid=86, dest=(10,8), place=13},
+    lterm{uid=87, dest=(7,9), place=35},
+    lterm{uid=88, dest=(9,3), place=7},
+    lterm{uid=89, dest=(10,4), place=50},
+    lterm{uid=90, dest=(2,9), place=30},
+    lterm{uid=91, dest=(4,7), place=44},
+    lterm{uid=92, dest=(7,10), place=16}
+    ]
+  ),
+  ((6,4),
+    [
+    lterm{uid=93, dest=(10,9), place=1},
+    lterm{uid=94, dest=(3,5), place=4},
+    lterm{uid=95, dest=(10,8), place=17},
+    lterm{uid=96, dest=(4,8), place=18},
+    lterm{uid=97, dest=(5,5), place=21},
+    lterm{uid=98, dest=(6,9), place=12},
+    lterm{uid=99, dest=(2,10), place=34}
+    ]
+  ),
+  ((7,3),
+    [
+    lterm{uid=100, dest=(8,4), place=14}
+    ]
+  )
+]

@@ -1,0 +1,49 @@
+[
+ ((11,11),
+   [
+   lterm {uid=1, dest=(4,11), place=11},
+   lterm {uid=2, dest=(4,11), place=11},
+   lterm {uid=3, dest=(4,11), place=11},
+   lterm {uid=4, dest=(4,11), place=11},
+   lterm {uid=5, dest=(4,11), place=11},
+   lterm {uid=6, dest=(4,11), place=11},
+   lterm {uid=7, dest=(4,11), place=11},
+   lterm {uid=8, dest=(4,11), place=11},
+   lterm {uid=9, dest=(4,11), place=11},
+   lterm {uid=10, dest=(4,11), place=11},
+
+   lterm {uid=11, dest=(11,4), place=11},
+   lterm {uid=12, dest=(11,4), place=11},
+   lterm {uid=13, dest=(11,4), place=11},
+   lterm {uid=14, dest=(11,4), place=11},
+   lterm {uid=15, dest=(11,4), place=11},
+   lterm {uid=16, dest=(11,4), place=11},
+   lterm {uid=17, dest=(11,4), place=11},
+   lterm {uid=18, dest=(11,4), place=11},
+   lterm {uid=19, dest=(11,4), place=11},
+   lterm {uid=20, dest=(11,4), place=11},
+
+   lterm {uid=21, dest=(19,11), place=11},
+   lterm {uid=22, dest=(19,11), place=11},
+   lterm {uid=23, dest=(19,11), place=11},
+   lterm {uid=24, dest=(19,11), place=11},
+   lterm {uid=25, dest=(19,11), place=11},
+   lterm {uid=26, dest=(19,11), place=11},
+   lterm {uid=27, dest=(19,11), place=11},
+   lterm {uid=28, dest=(19,11), place=11},
+   lterm {uid=29, dest=(19,11), place=11},
+   lterm {uid=30, dest=(19,11), place=11},
+
+   lterm {uid=31, dest=(11,19), place=11},
+   lterm {uid=32, dest=(11,19), place=11},
+   lterm {uid=33, dest=(11,19), place=11},
+   lterm {uid=34, dest=(11,19), place=11},
+   lterm {uid=35, dest=(11,19), place=11},
+   lterm {uid=36, dest=(11,19), place=11},
+   lterm {uid=37, dest=(11,19), place=11},
+   lterm {uid=38, dest=(11,19), place=11},
+   lterm {uid=39, dest=(11,19), place=11},
+   lterm {uid=40, dest=(11,19), place=11}
+   ]
+ )
+]
